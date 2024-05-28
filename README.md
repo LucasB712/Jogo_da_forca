@@ -5,8 +5,11 @@ Códigos baseados na linguagem C
 
 # Lista de Projetos:
 
--JOGO DA FORCA
+-Jogo da Forca
 
--PAC MAN
+-Pac Man
 
--
+-Pokemon TO-DO List
+
+-Torre de Hanoi em Estilo Minecraft
+
